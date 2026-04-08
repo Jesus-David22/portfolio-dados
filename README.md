@@ -16,18 +16,18 @@ Python 3.13, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Lab
 
 ## 📁 Estrutura do Projeto
 
-portfolio-dados/
-├── README.md
-├── case1-churn/
-│ ├── dados/
-│ │ └── (dados gerados via código)
-│ └── notebooks/
-│ └── case1_churn.ipynb
-└── case2-marketing/
-├── dados/
-│ └── (dados gerados via código)
-└── notebooks/
-└── case2_marketing.ipynb
+- portfolio-dados/
+  - README.md
+  - case1-churn/
+    - dados/
+      - (dados gerados via código)
+    - notebooks/
+      - case1_churn.ipynb
+  - case2-marketing/
+    - dados/
+      - (dados gerados via código)
+    - notebooks/
+      - case2_marketing.ipynb
 
 ## 📊 Case 1: Análise de Churn (Cancelamento de Clientes)
 
