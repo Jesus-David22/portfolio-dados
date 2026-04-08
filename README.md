@@ -17,20 +17,17 @@ Python 3.13, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Lab
 ## 📁 Estrutura do Projeto
 
 portfolio-dados/
-│
-├── README.md                          # Este arquivo
-│
+├── README.md
 ├── case1-churn/
-│   ├── dados/                         # Datasets do case 1
-│   │   └── (dados gerados via código)
-│   └── notebooks/
-│       └── case1_churn.ipynb          # Análise de Churn
-│
+│ ├── dados/
+│ │ └── (dados gerados via código)
+│ └── notebooks/
+│ └── case1_churn.ipynb
 └── case2-marketing/
-    ├── dados/                         # Datasets do case 2
-    │   └── (dados gerados via código)
-    └── notebooks/
-        └── case2_marketing.ipynb      # Otimização de Marketing
+├── dados/
+│ └── (dados gerados via código)
+└── notebooks/
+└── case2_marketing.ipynb
 
 ## 📊 Case 1: Análise de Churn (Cancelamento de Clientes)
 
